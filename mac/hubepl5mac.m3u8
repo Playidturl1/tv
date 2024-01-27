@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=9030000,FRAME-RATE=50
+http://uhd3.one/play/live.php?mac=00:1a:79:00:89:3a&stream=1411379&extension=m3u8
